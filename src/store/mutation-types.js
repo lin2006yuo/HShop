@@ -1,0 +1,11 @@
+export const RECEIVE_ADDRESS = 'RECEIVE_ADDRESS'
+export const RECEIVE_TYPE = 'RECEIVE_TYPE'
+export const RECEIVE_SHOPS = 'RECEIVE_SHOPS'
+export const RECEIVE_INFO = 'RECEIVE_INFO'
+export const RECEIVE_RATING = 'RECEIVE_RATING'
+export const RECEIVE_GOODS = 'RECEIVE_GOODS'
+
+export const INCREMENT_FOOD_COUNT = 'INCREMENT_FOOD_COUNT' //增加food数量
+export const DECREMENT_FOOD_COUNT = 'DECREMENT_FOOD_COUNT'  //减少food数量
+
+export const CLEAR_CART = 'CLEAR_CART'

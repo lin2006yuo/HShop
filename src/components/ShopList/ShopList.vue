@@ -30,7 +30,7 @@
             <p class="location">当前位置：{{location}}</p>
         </div>
         <div class="card_list">
-            <div class="card">
+            <div class="card" @click="$router.push('/shop')">
                 <div class="shop">
                     <div class="img_box"><img src="./images/shop/shop.png" alt=""></div>
                     <div class="shop_detail">

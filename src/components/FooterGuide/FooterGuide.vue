@@ -26,7 +26,7 @@
         },
         methods : {
             goTo(path){
-                this.$router.replace(path)
+                this.$router.push(path)
             }
         }
     }
@@ -46,7 +46,7 @@
         display flex
         .guide_item
             display flex
-            flex 1
+            flex 1 
             text-align center
             flex-direction column
             align-items center
