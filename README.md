@@ -1,6 +1,6 @@
-# better-scroll
+# Take-Out
 
-> A Vue.js project
+> 模仿地写了一个练手vue项目
 
 ## Build Setup
 
@@ -8,7 +8,7 @@
 # install dependencies
 npm install
 
-# serve with hot reload at localhost:8080
+# serve with hot reload at 本地ip:8080
 npm run dev
 
 # build for production with minification
